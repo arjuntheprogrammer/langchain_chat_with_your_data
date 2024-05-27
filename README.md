@@ -16,6 +16,7 @@ Create a chatbot to interface with your private data and documents using LangCha
 4. Vectorstores and Embedding
 5. Retrieval
 6. Question Answering
+7. Chatbot
 
 ---
 
